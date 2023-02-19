@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(247, 240, 231);
+}
+h1{
+    color:black;
+    text-align: center;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+}
